@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# et713-task-tracker
+>>>>>>> 7c8f226878016dd86d62ab4b7d0ab3e8820e56e9
